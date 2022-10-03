@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋 D is here</h1>
 <h3 align="center">A passionate developer from Indiaa</h3>
+![image](https://user-images.githubusercontent.com/105449474/193531919-1a31000c-9337-4af8-8f7b-adb7dc86fe0e.png)
 
 - 🔭 I’m currently working on **computer**
 
@@ -11,7 +12,7 @@
 
 - 💬 Ask me about **something you know and i dont know**
 
-- ⚡ Fun fact **i dont know**
+- ⚡ Fun fact **i dont have any faxs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

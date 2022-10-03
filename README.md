@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 D is here</h1>
 <h3 align="center">A passionate developer from Indiaa</h3>
-![image](https://user-images.githubusercontent.com/105449474/193531919-1a31000c-9337-4af8-8f7b-adb7dc86fe0e.png)
+<img src:https://user-images.githubusercontent.com/105449474/193532131-74538c02-0245-4cf7-afc5-edb14f5cab9d.png; alt: photo>
 
 - 🔭 I’m currently working on **computer**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 D is here</h1>
-<h3 align="center">A passionate developer from Indiaa</h3>
+<h3 align="center">The Developer by name David</h3>
 <img src="https://media.tenor.com/GIVLitDIxr8AAAAM/breaking-bad-walter-white.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Breaking Bad GIFs | Tenor" data-noaft="1" style="width: 220px; height: 162px; margin: 24.3px 0px;">
 
 - 🔭 I’m currently working on **computer**

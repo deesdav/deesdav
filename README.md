@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 D is here</h1>
 <h3 align="center">A passionate developer from Indiaa</h3>
-<img src:https://user-images.githubusercontent.com/105449474/193532131-74538c02-0245-4cf7-afc5-edb14f5cab9d.png; alt: photo>
+<img src="https://media2.giphy.com/media/IfxBjGrbIK3vwkODkA/200.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Op Art GIFs - Get the best GIF on GIPHY" data-noaft="1" style="width: 200px; height: 200px; margin: 5.3px 0px;">
 
 - 🔭 I’m currently working on **computer**
 

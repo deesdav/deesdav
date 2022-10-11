@@ -19,6 +19,6 @@
 <a href="https://www.youtube.com/channel/UCrY06IULFyeRqjcN5xe67Zg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thedawarrior" height="30" width="40" /></a>
 <a href="https://www.twitch.tv/thedawarrior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="#" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/davko7778?si=4dfc580854ed477f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="#" height="30" width="40" /></a>
-<a href="https://discord.gg/deesee#3492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#" height="30" width="40" /></a>
+<a href="https://discord.gg/#3492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#" height="30" width="40" /></a>
 </p>
 

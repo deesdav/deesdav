@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **something**
 
-- 🤝 I’m looking for help with **us**
+- 🤝 I’m looking for help with **you**
 
 - 💬 Ask me about **something you know and i dont know**
 

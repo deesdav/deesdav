@@ -1,18 +1,6 @@
-<h1 align="center">Hi there 👋 D is here</h1>
-<h3 align="center">The Developer by name David</h3>
+<h1 align="center">hello</h1>
 <img src="https://media.tenor.com/GIVLitDIxr8AAAAM/breaking-bad-walter-white.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Breaking Bad GIFs | Tenor" data-noaft="1" style="width: 800px; height: 400px; margin: 0px auto;">
 
-- 🔭 I’m currently working on **computer**
-
-- 🌱 I’m currently learning **Java, JavaScript**
-
-- 👯 I’m looking to collaborate on **something**
-
-- 🤝 I’m looking for help with **you**
-
-- 💬 Ask me about **something you know and i dont know**
-
-- ⚡ Fun fact **i dont have any faxs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

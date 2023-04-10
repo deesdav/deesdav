@@ -8,7 +8,13 @@
 - 🔭 I’m currently working on something  
   
 
-- ⚡ Fun fact:   
+- ⚡ Fun facts:
+                  - The shortest war in history was between Britain and Zanzibar in 1896, lasting only 38 minutes.
+                  - A group of flamingos is called a flamboyance.
+                  - Oxford University is older than the Aztec Empire.
+                  - There is a waterfall in Antarctica that runs red from iron oxide found in the surrounding rock.
+                  - The world's largest snowflake on record was 15 inches wide and 8 inches thick, measured in Montana in 1887.
+                  - Pigs do not have sweat glands, so they cool down by rolling around in the mud.
   
 
 <br/>  
